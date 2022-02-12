@@ -1,2 +1,3 @@
 # computacion_para_ingenieria
-Kevin Molina Aguilar
+
+Kevin Michael Molina Aguilar
